@@ -3,4 +3,4 @@ The main objective of this project is to translate visual information in images 
 
 
 ## Dataset 
-COCO Dataset from kaggle "https://www.kaggle.com/datasets/awsaf49/coco-2017-dataset"
+Flickr 8k Dataset from kaggle "https://www.kaggle.com/datasets/adityajn105/flickr8k"
